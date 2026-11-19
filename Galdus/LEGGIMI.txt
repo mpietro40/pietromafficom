@@ -1,0 +1,3 @@
+Metti qui dentro la copia della sezione Galdus (vedi README.md, punto 2).
+Tutto cio' che e' in questa cartella finisce online IDENTICO, senza essere modificato.
+Cancella questo file quando hai copiato i contenuti.
